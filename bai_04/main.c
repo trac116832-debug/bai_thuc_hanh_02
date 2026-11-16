@@ -302,7 +302,7 @@ int main(){
 		  	case 8:
 		  		printf("Ghep danh sach\n");
 		  		ghep(L1,L2,&L);
-		  		printf("Danh sach sau khi ghe:\n");
+		  		printf("Danh sach sau khi ghep:\n");
 		  		duyet(L);
 		  		break;
 		  	case 0:
